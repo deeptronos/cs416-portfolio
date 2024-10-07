@@ -6,4 +6,4 @@ The code and journaling for my work in Bart Massey's Computer Sound and Music co
 
 Programs and libraries I've written are available in the [`/code`](/code) directory.
 
-I maintain an "engineering notebook"-style journal in [`/notebook.md'](/notebook.md).
+I maintain an "engineering notebook"-style journal in [`/notebook.md`](/notebook.md).
