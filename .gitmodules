@@ -1,3 +1,9 @@
 [submodule "code/PSU-416-clipped"]
 	path = code/PSU-416-clipped
 	url = https://github.com/deeptronos/PSU-416-clipped.git
+[submodule "Oxidizer"]
+	path = Oxidizer
+	url = https://github.com/deeptronos/Oxidizer
+[submodule "PSU-416-adaptive-tone-control"]
+	path = PSU-416-adaptive-tone-control
+	url = https://github.com/deeptronos/PSU-416-adaptive-tone-control
